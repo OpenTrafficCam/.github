@@ -11,7 +11,7 @@ The core is composed of three:
 - OTVision, a collection of algorithms to generate trajectories of objects (road users) based on the videos and
 - OTAnalytics to gather traffic measures based on these trajectories.
 
-![OpenTrafficCam Framework](https://opentrafficcam.org/framework_OTC_website.png)
+![OpenTrafficCam Framework](https://opentrafficcam.org/overview/framework_OTC_website.png)
 
 See [opentrafficcam.org](https://opentrafficcam.org) for further information :)
 
